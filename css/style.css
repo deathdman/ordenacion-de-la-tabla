@@ -1,0 +1,13 @@
+h1.titulo{
+    padding: 20px;
+    text-align: center;
+}
+
+thead tr, th{
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+tbody tr, td{
+   text-align: center;
+}
